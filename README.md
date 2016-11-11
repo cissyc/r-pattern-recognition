@@ -1,2 +1,2 @@
 # r-pattern-recognition
-Statistical Pattern Recognition in R
+Project for Statistical Pattern Recognition course at Imperial College London, January 2014.
